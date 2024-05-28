@@ -1,0 +1,38 @@
+/* src/Header.css */
+
+
+.header-logo {
+  width: 10px;
+  height: auto;
+}
+
+/* Other existing styles */
+.d-flex {
+  display: flex;
+}
+
+.bg-gradient {
+  background-color: #629ae4;
+}
+
+.courseTitle {
+  flex-grow: 1;
+}
+
+.ReactTitle img {
+  width: 40px;
+  height: 40px;
+}
+
+.ReactTitle h3 {
+  margin: 0;
+}
+
+h4{
+  margin-bottom: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
